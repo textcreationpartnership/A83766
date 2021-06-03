@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An order of the Commons assembled in Parliament, for taking off the priviledge and protection of any persons belonging to any member of the said House, or for concerning the lands or estate of any Members of the said House. Ordered by the Commons assembled in Parliament, that this order be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83766</idno><idno type="EEBO-CITATION">99864250</idno>
+  <idno type="VID">116475</idno>
+  <idno type="EEBO-PROQUEST">2240904049</idno>
+  
+            <idno type="STC">Wing E2649</idno>
+            <idno type="STC">Thomason E422_4</idno>
+            <idno type="STC">ESTC R204788</idno>
+            <idno type="PROQUEST">99864250</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864250e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83766)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116475)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E422[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An order of the Commons assembled in Parliament, for taking off the priviledge and protection of any persons belonging to any member of the said House, or for concerning the lands or estate of any Members of the said House. Ordered by the Commons assembled in Parliament, that this order be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>6, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, Printer to the Honorable House of Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Jan. 6. 1647 [i.e. 1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The last leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Privileges and immunities --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116475:1"/>
+            <p> AN ORDER OF THE COMMONS Assembled in PARLIAMENT, For taking off the <hi>Priviledge and Protection</hi> of any persons belonging to any Mem<g ref="char:EOLhyphen"/>ber of the said House, Or for or concerning the Lands or Estate of any Members of the said House.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>ORdered by the Commons assembled in Parliament, That this Order be forthwith printed and published.</hi>
+                        </p>
+                        <closer>
+                           <signed>H: Elsynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Husband,</hi> Printer to the Honorable House of Commons, <hi>Jan.</hi> 6. 1647.</p>
+            <pb facs="tcp:116475:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_document">
+            <pb n="3" facs="tcp:116475:2"/>
+            <head>4 <hi>January,</hi> 1467.</head>
+            <p>THe Commons in this pre<g ref="char:EOLhyphen"/>sent Parliament assembled, having a tender regard to the general good of this Kingdom; and considering the many weighty affairs w<seg rend="sup">ch</seg> hath prolonged this pre<g ref="char:EOLhyphen"/>sent Session of Parliament, during which time by reason of the Privi<g ref="char:EOLhyphen"/>ledges of Parliament, the prosecu<g ref="char:EOLhyphen"/>tion of just Suits may be too much delayed; For the present remedy whereof, the said Commons being willing to forbear for some time their own Interest &amp; Priviledge for
+<pb n="4" facs="tcp:116475:3"/> the publique good, Do Order, and be it Ordered by the Commons in this present <hi>Parliament</hi> assembled; That no person or persons under the Authority of the said House, except the Members thereof, shall from the Twentieth day of this in stant <hi>January, Anno Dom</hi> 1647. du<g ref="char:EOLhyphen"/>ring this present Session of <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> have any Protection or Imu<g ref="char:EOLhyphen"/>nity by reason of any Priviledge of the said House of <hi>Parliament,</hi> or derived from the Members thereof, or any of them, in any Action or Suit for Debt, or any Action or Suit grounded upon any Right or Title to any Lands, Tenements, or Hereditaments, or upon any Contract upon Borrow<g ref="char:EOLhyphen"/>ing
+<pb n="5" facs="tcp:116475:3"/> or Lending, or Buying or Sel<g ref="char:EOLhyphen"/>ling, or grounded upon any Secu<g ref="char:EOLhyphen"/>rity given or to be given by Lease, Mortgage, or otherwise, for any sum or sums of Money.</p>
+            <p>And it is hereby further Order<g ref="char:EOLhyphen"/>ed, That during this present Ses<g ref="char:EOLhyphen"/>sion of Parliament, in the cases a<g ref="char:EOLhyphen"/>foresaid, The Members of the said House of Parliament, and every of them, their Lands, Tenements, Hereditaments, Goods and Chat<g ref="char:EOLhyphen"/>tels, shall be subject to any A<g ref="char:EOLhyphen"/>ction, Suit, Process, Execution, Decree, or other Demand whatso<g ref="char:EOLhyphen"/>ever, in Law or Equity (so that the same extend not to the Imprison<g ref="char:EOLhyphen"/>ment or Arrest of the person) or to prosecution upon any penal Law.</p>
+            <pb n="6" facs="tcp:116475:4"/>
+            <p> And be it further Ordered, That every Member of this House, having a Process delivered him for Appearance in the Cases aforesaid, do accordingly make his Appear<g ref="char:EOLhyphen"/>ance, or in default, this House on complaint thereof, will take such course therein, as to Iustice shall appertain.</p>
+            <closer>
+               <signed>H. Elsynge, Cler. Parl. D. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:116475:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
